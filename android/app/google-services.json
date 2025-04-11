@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43305267188",
+    "project_id": "nips-a001d",
+    "storage_bucket": "nips-a001d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43305267188:android:fcdce27ae730388e1fd3a1",
+        "android_client_info": {
+          "package_name": "com.example.nipss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5eWM2frxtmFUeMvtyc_Udz50UnSL97KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
